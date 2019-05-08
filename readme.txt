@@ -2,5 +2,4 @@
 Git is free software.
 Git is free software.
 Git is free software.Git is free software.
-哈哈哈哈
-dev分支
+解决冲突
